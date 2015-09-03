@@ -70,4 +70,11 @@ ul {
 .customer-ready {
 	font-size: 120%;	
 }
-
+.card-content {
+	padding: 45px 15px 35px 15px !important;
+	box-shadow: 2px 2px 5px rgba(0,0,0,.2) !important;
+}
+.card-content:hover {
+	box-shadow: 2px 2px 8px rgba(0,0,0,.2) !important;
+	
+}
